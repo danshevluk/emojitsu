@@ -1,5 +1,5 @@
 # Emojitsu 🈸 
-[![npm version](https://badge.fury.io/js/alfred-emojitsu.svg)](https://badge.fury.io/js/alfred-emojitsu)
+[![npm version](https://badge.fury.io/js/alfred-emojitsu.svg)](https://badge.fury.io/js/alfred-emojitsu) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Alfred workflow for searching emoji by keywords
 
